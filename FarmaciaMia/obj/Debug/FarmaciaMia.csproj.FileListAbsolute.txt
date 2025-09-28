@@ -1,0 +1,79 @@
+C:\Users\abcca\source\repos\FarmaciaMia\obj\Debug\FarmaciaMia.csproj.AssemblyReference.cache
+C:\Users\abcca\source\repos\FarmaciaMia\obj\Debug\FarmaciaMia.Form1.resources
+C:\Users\abcca\source\repos\FarmaciaMia\obj\Debug\FarmaciaMia.Properties.Resources.resources
+C:\Users\abcca\source\repos\FarmaciaMia\obj\Debug\FarmaciaMia.csproj.GenerateResource.cache
+C:\Users\abcca\source\repos\FarmaciaMia\obj\Debug\FarmaciaMia.csproj.CoreCompileInputs.cache
+C:\Users\abcca\source\repos\FarmaciaMia\bin\Debug\FarmaciaMia.exe.config
+C:\Users\abcca\source\repos\FarmaciaMia\bin\Debug\FarmaciaMia.exe
+C:\Users\abcca\source\repos\FarmaciaMia\bin\Debug\FarmaciaMia.pdb
+C:\Users\abcca\source\repos\FarmaciaMia\bin\Debug\System.Data.SqlClient.dll
+C:\Users\abcca\source\repos\FarmaciaMia\bin\Debug\System.Data.SqlClient.xml
+C:\Users\abcca\source\repos\FarmaciaMia\obj\Debug\Farmacia.44EF931F.Up2Date
+C:\Users\abcca\source\repos\FarmaciaMia\obj\Debug\FarmaciaMia.exe
+C:\Users\abcca\source\repos\FarmaciaMia\obj\Debug\FarmaciaMia.pdb
+C:\Users\abcca\source\repos\FarmaciaMia\obj\Debug\FarmaciaMia.VentasForm.resources
+C:\Users\LABORATORIO 3\Downloads\repos con bckup\repos\FarmaciaMia\bin\Debug\FarmaciaMia.exe.config
+C:\Users\LABORATORIO 3\Downloads\repos con bckup\repos\FarmaciaMia\bin\Debug\FarmaciaMia.exe
+C:\Users\LABORATORIO 3\Downloads\repos con bckup\repos\FarmaciaMia\bin\Debug\FarmaciaMia.pdb
+C:\Users\LABORATORIO 3\Downloads\repos con bckup\repos\FarmaciaMia\bin\Debug\System.Data.SqlClient.dll
+C:\Users\LABORATORIO 3\Downloads\repos con bckup\repos\FarmaciaMia\bin\Debug\System.Data.SqlClient.xml
+C:\Users\LABORATORIO 3\Downloads\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.csproj.AssemblyReference.cache
+C:\Users\LABORATORIO 3\Downloads\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.csproj.SuggestedBindingRedirects.cache
+C:\Users\LABORATORIO 3\Downloads\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.Form1.resources
+C:\Users\LABORATORIO 3\Downloads\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.Properties.Resources.resources
+C:\Users\LABORATORIO 3\Downloads\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.VentasForm.resources
+C:\Users\LABORATORIO 3\Downloads\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.csproj.GenerateResource.cache
+C:\Users\LABORATORIO 3\Downloads\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO 3\Downloads\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.csproj.CopyComplete
+C:\Users\LABORATORIO 3\Downloads\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.exe
+C:\Users\LABORATORIO 3\Downloads\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.pdb
+C:\Users\Jose Machado\OneDrive\Desktop\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.csproj.AssemblyReference.cache
+C:\Users\Jose Machado\OneDrive\Desktop\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.exe.config
+C:\Users\Jose Machado\OneDrive\Desktop\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.Form1.resources
+C:\Users\Jose Machado\OneDrive\Desktop\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.Properties.Resources.resources
+C:\Users\Jose Machado\OneDrive\Desktop\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.RealizarVenta.resources
+C:\Users\Jose Machado\OneDrive\Desktop\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.VentasForm.resources
+C:\Users\Jose Machado\OneDrive\Desktop\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.csproj.GenerateResource.cache
+C:\Users\Jose Machado\OneDrive\Desktop\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.csproj.CoreCompileInputs.cache
+C:\Users\Jose Machado\OneDrive\Desktop\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.exe
+C:\Users\Jose Machado\OneDrive\Desktop\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.pdb
+C:\Users\Jose Machado\OneDrive\Desktop\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\bin\Debug\FarmaciaMia.exe.config
+C:\Users\Jose Machado\OneDrive\Desktop\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\bin\Debug\FarmaciaMia.exe
+C:\Users\Jose Machado\OneDrive\Desktop\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\bin\Debug\FarmaciaMia.pdb
+C:\Users\Jose Machado\OneDrive\Desktop\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Jose Machado\OneDrive\Desktop\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Jose Machado\OneDrive\Desktop\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\Farmacia.44EF931F.Up2Date
+C:\Users\Jose Machado\OneDrive\Desktop\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.FrmDetallesFacturas.resources
+C:\Users\abcca\Downloads\jr\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\bin\Debug\FarmaciaMia.exe.config
+C:\Users\abcca\Downloads\jr\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\bin\Debug\FarmaciaMia.exe
+C:\Users\abcca\Downloads\jr\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\bin\Debug\FarmaciaMia.pdb
+C:\Users\abcca\Downloads\jr\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\bin\Debug\System.Data.SqlClient.dll
+C:\Users\abcca\Downloads\jr\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\bin\Debug\System.Data.SqlClient.xml
+C:\Users\abcca\Downloads\jr\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.csproj.AssemblyReference.cache
+C:\Users\abcca\Downloads\jr\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.Form1.resources
+C:\Users\abcca\Downloads\jr\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.FrmDetallesFacturas.resources
+C:\Users\abcca\Downloads\jr\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.Properties.Resources.resources
+C:\Users\abcca\Downloads\jr\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.RealizarVenta.resources
+C:\Users\abcca\Downloads\jr\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.VentasForm.resources
+C:\Users\abcca\Downloads\jr\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.csproj.GenerateResource.cache
+C:\Users\abcca\Downloads\jr\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.csproj.CoreCompileInputs.cache
+C:\Users\abcca\Downloads\jr\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\Farmacia.44EF931F.Up2Date
+C:\Users\abcca\Downloads\jr\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.exe
+C:\Users\abcca\Downloads\jr\jr\jr\repos con bckup\repos con bckup\repos\FarmaciaMia\obj\Debug\FarmaciaMia.pdb
+C:\Users\DELL\OneDrive\Escritorio\Farmacia Mia\FarmaciaMia\bin\Debug\FarmaciaMia.exe.config
+C:\Users\DELL\OneDrive\Escritorio\Farmacia Mia\FarmaciaMia\bin\Debug\FarmaciaMia.exe
+C:\Users\DELL\OneDrive\Escritorio\Farmacia Mia\FarmaciaMia\bin\Debug\FarmaciaMia.pdb
+C:\Users\DELL\OneDrive\Escritorio\Farmacia Mia\FarmaciaMia\bin\Debug\System.Data.SqlClient.dll
+C:\Users\DELL\OneDrive\Escritorio\Farmacia Mia\FarmaciaMia\bin\Debug\System.Data.SqlClient.xml
+C:\Users\DELL\OneDrive\Escritorio\Farmacia Mia\FarmaciaMia\obj\Debug\FarmaciaMia.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Escritorio\Farmacia Mia\FarmaciaMia\obj\Debug\FarmaciaMia.exe.config
+C:\Users\DELL\OneDrive\Escritorio\Farmacia Mia\FarmaciaMia\obj\Debug\FarmaciaMia.Form1.resources
+C:\Users\DELL\OneDrive\Escritorio\Farmacia Mia\FarmaciaMia\obj\Debug\FarmaciaMia.FrmDetallesFacturas.resources
+C:\Users\DELL\OneDrive\Escritorio\Farmacia Mia\FarmaciaMia\obj\Debug\FarmaciaMia.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Escritorio\Farmacia Mia\FarmaciaMia\obj\Debug\FarmaciaMia.RealizarVenta.resources
+C:\Users\DELL\OneDrive\Escritorio\Farmacia Mia\FarmaciaMia\obj\Debug\FarmaciaMia.VentasForm.resources
+C:\Users\DELL\OneDrive\Escritorio\Farmacia Mia\FarmaciaMia\obj\Debug\FarmaciaMia.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Escritorio\Farmacia Mia\FarmaciaMia\obj\Debug\FarmaciaMia.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Escritorio\Farmacia Mia\FarmaciaMia\obj\Debug\Farmacia.44EF931F.Up2Date
+C:\Users\DELL\OneDrive\Escritorio\Farmacia Mia\FarmaciaMia\obj\Debug\FarmaciaMia.exe
+C:\Users\DELL\OneDrive\Escritorio\Farmacia Mia\FarmaciaMia\obj\Debug\FarmaciaMia.pdb

@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\ventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|solutionrelative:ventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\ventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|solutionrelative:ventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|c:\\users\\dell\\onedrive\\escritorio\\farmacia mia\\farmaciamia\\gestorescrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|solutionrelative:gestorescrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\realizarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|solutionrelative:realizarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\realizarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|solutionrelative:realizarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\m_medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|solutionrelative:m_medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\frmdetallesfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|solutionrelative:frmdetallesfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\frmdetallesfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|solutionrelative:frmdetallesfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\d_medicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|solutionrelative:d_medicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|solutionrelative:conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\clsfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662A291C-0D66-4447-8B1D-A1C224D6ACE2}|FarmaciaMia.csproj|solutionrelative:clsfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentasForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\VentasForm.cs",
+              "RelativeDocumentMoniker": "VentasForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\VentasForm.cs",
+              "RelativeToolTip": "VentasForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:25:14.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentasForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\VentasForm.cs",
+              "RelativeDocumentMoniker": "VentasForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\VentasForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VentasForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:25:11.409Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestoresCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\GestoresCRUD.cs",
+              "RelativeDocumentMoniker": "GestoresCRUD.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\GestoresCRUD.cs",
+              "RelativeToolTip": "GestoresCRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:24:39.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmDetallesFacturas.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\FrmDetallesFacturas.cs",
+              "RelativeDocumentMoniker": "FrmDetallesFacturas.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\FrmDetallesFacturas.cs",
+              "RelativeToolTip": "FrmDetallesFacturas.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:24:35.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:06:35.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmDetallesFacturas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\FrmDetallesFacturas.cs",
+              "RelativeDocumentMoniker": "FrmDetallesFacturas.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\FrmDetallesFacturas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmDetallesFacturas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:06:30.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:06:29.366Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\Conexion.cs",
+              "RelativeDocumentMoniker": "Conexion.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\Conexion.cs",
+              "RelativeToolTip": "Conexion.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:01:36.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RealizarVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\RealizarVenta.cs",
+              "RelativeDocumentMoniker": "RealizarVenta.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\RealizarVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RealizarVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T19:46:49.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsFactura.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\clsFactura.cs",
+              "RelativeDocumentMoniker": "clsFactura.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\clsFactura.cs",
+              "RelativeToolTip": "clsFactura.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAIwO8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T19:34:22.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RealizarVenta.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\RealizarVenta.cs",
+              "RelativeDocumentMoniker": "RealizarVenta.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\RealizarVenta.cs",
+              "RelativeToolTip": "RealizarVenta.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAwwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:58:00.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "D_Medicamentos.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\D_Medicamentos.cs",
+              "RelativeDocumentMoniker": "D_Medicamentos.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\D_Medicamentos.cs",
+              "RelativeToolTip": "D_Medicamentos.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAswOAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:03:19.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "M_Medicamento.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\M_Medicamento.cs",
+              "RelativeDocumentMoniker": "M_Medicamento.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Farmacia Mia\\FarmaciaMia\\M_Medicamento.cs",
+              "RelativeToolTip": "M_Medicamento.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:42:33.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
